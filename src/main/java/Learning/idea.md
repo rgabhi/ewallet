@@ -17,7 +17,7 @@
   - date
 
 
-- UserService
+- AccountService
   - ADD_WALLET
   - TRANSFER_MONEY
   - ACCOUNT_STATEMENT
